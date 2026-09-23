@@ -14,4 +14,4 @@ Este fork foi criado durante treinamento de DevOps para praticar:
 - Pull Requests externos  
 - Colaboração open source
 	
-Contribuição feita por [rafabiasotto] - Turma DevOps 2025
+Contribuição feita por rafabiasotto - Turma DevOps 2025
